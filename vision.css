@@ -1,0 +1,13 @@
+BODY{
+    background:   url("img/photo_6199331378613564354_x.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:black;
+    padding-left: 80px;
+    padding-right: 70px;
+    line-height: 38px;
+    
+}
+h1{
+    color: rgb(132, 43, 20);
+}
